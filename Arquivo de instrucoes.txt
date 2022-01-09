@@ -1,0 +1,3 @@
+- Acessar o botão code, no repositório e usar o item ssh, copiando seu conteúdo.
+- Abrir página no computador pessoal para colocar o repositório copiado, com o comando git clone.
+- 
